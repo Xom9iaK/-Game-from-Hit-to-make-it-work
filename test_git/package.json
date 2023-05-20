@@ -1,9 +1,0 @@
-{
-  "name": "test_git",
-  "version": "0.0.0",
-  "description": "test_git",
-  "main": "server.js",
-  "author": {
-    "name": ""
-  }
-}
